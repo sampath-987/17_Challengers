@@ -1,4 +1,4 @@
-  <!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -94,6 +94,7 @@
         }
         .container{
             background-color: rgb(250 246 246);
+
         }
     
         
@@ -128,5 +129,8 @@
         <img src="img/bg3.jpg" alt="img" width="350">
         <img src="img/bg4.jpg" alt="img" width="350">
         </div>
+        <br>
+        <hr>
+        <video src="img/bg5.mp4" width="400px" controls></video>
 </body>
 </html>
