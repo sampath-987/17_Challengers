@@ -1,4 +1,4 @@
-   <!DOCTYPE html>
+  <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -85,8 +85,18 @@
             background-color: #fff;
             color: #000;
         
-
         }
+        
+        img{
+            padding-left: 100px;
+            padding-right: 20px;
+            
+        }
+        .container{
+            background-color: rgb(250 246 246);
+        }
+    
+        
 
     </style>
 </head>
@@ -110,7 +120,13 @@
                 <a href="#"class="btn">Physical health</a>
                 
             </div>
-    </header>
-
+            
+        </header>
+        <br>
+        <div class="container">
+        <img src="img/bg2.jpg" alt="img" width="350">
+        <img src="img/bg3.jpg" alt="img" width="350">
+        <img src="img/bg4.jpg" alt="img" width="350">
+        </div>
 </body>
 </html>
